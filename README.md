@@ -1,4 +1,10 @@
-# React + Vite
+# website-ege313
+
+This project is a Vite + React setup for the EGE313 course.
+
+---
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
